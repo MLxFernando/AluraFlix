@@ -1,0 +1,19 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #000000;
+}
+
+.logo{
+    width: 168px;
+    height: 40px;
+    margin: 20px;
+}
+
+button{
+    background-color: #000000;
+    color:white;
+    Width: 180px;
+    Height: 54px;
+    margin: 20px;
+}
